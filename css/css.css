@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face
+{
+	font-family:Monoton-Regular;
+	src: url("../fonts/Monoton-Regular.ttf");
+}
+@font-face
+{
+	font-family:playball;
+	src: url("../fonts/Playball.ttf");
+}
+body
+{
+	margin:0;
+	padding:0;
+	width:100%;
+}
+html
+{
+	margin:0;
+	padding:0;
+    width:100%;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
